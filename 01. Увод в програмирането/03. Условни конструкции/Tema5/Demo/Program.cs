@@ -4,17 +4,31 @@
     {
         static void Main(string[] args)
         {
-            var color = "red";
+            int h = int.Parse(Console.ReadLine());
+            int m=int.Parse(Console.ReadLine()) ;
 
-            if (color == "red")
+            m += 15;
+
+            if (m>60)
             {
-                Console.WriteLine("tomato");
+                h += 1;
+                m=m-60;
             }
-            else
+
+            if (h>=24)
             {
-                Console.WriteLine("banana");
-                Console.WriteLine("bye");
+                h -= 24;
             }
+
+            if(m<10)
+            {
+                Console.WriteLine($"{h}:0{m}");
+            }
+            else 
+            {
+                Console.WriteLine($"{h}:{m}");
+            }
+
 
 
         }
