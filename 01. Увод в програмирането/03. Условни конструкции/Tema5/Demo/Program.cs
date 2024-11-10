@@ -4,7 +4,19 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var color = "red";
+
+            if (color == "red")
+            {
+                Console.WriteLine("tomato");
+            }
+            else
+            {
+                Console.WriteLine("banana");
+                Console.WriteLine("bye");
+            }
+
+
         }
     }
 }
