@@ -4,32 +4,33 @@
     {
         static void Main(string[] args)
         {
-            int h = int.Parse(Console.ReadLine());
-            int m=int.Parse(Console.ReadLine()) ;
 
-            m += 15;
-
-            if (m>60)
+            char day = char.Parse(Console.ReadLine()); 
+           
+            switch (day)
             {
-                h += 1;
-                m=m-60;
-            }
+                case '!':                      
+                        Console.WriteLine("Pon");
+                        Console.WriteLine("Monday");                    
+                break;
 
-            if (h>=24)
-            {
-                h -= 24;
-            }
+                case '@':
+                    {
+                        Console.WriteLine("Vt");
+                        Console.WriteLine("Tuesday");
+                    }
+                    break;
+                case '#':
+                    {
+                        Console.WriteLine("Ne");
+                        Console.WriteLine("Sunday");
+                    }
+                    break;
 
-            if(m<10)
-            {
-                Console.WriteLine($"{h}:0{m}");
-            }
-            else 
-            {
-                Console.WriteLine($"{h}:{m}");
-            }
-
-
+                default:
+                    Console.WriteLine("Error");
+                    break;
+            }           
 
         }
     }
