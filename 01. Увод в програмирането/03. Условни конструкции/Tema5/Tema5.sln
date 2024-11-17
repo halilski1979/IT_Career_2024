@@ -15,25 +15,31 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p07 - Add_15_To_Time", "p06
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p06 - EdnakviDumi", "p06 - EdnakviDumi\p06 - EdnakviDumi.csproj", "{12F44FCA-C5D4-4DD4-B7F4-B21F300BE613}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p08-Speed", "p08-Speed\p08-Speed.csproj", "{DF22253F-FEA8-4E63-9958-62137E4434B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p08-Speed", "p08-Speed\p08-Speed.csproj", "{DF22253F-FEA8-4E63-9958-62137E4434B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p09 - Gender", "p09 - Gender\p09 - Gender.csproj", "{DA809DC5-380B-44AC-9484-A5FBDCDB8391}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p09 - Gender", "p09 - Gender\p09 - Gender.csproj", "{DA809DC5-380B-44AC-9484-A5FBDCDB8391}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p10 - FruitVegetable", "p10 - FruitVegetable\p10 - FruitVegetable.csproj", "{2D4B3FD2-A0AA-4359-A6E6-81D61E816F85}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p10 - FruitVegetable", "p10 - FruitVegetable\p10 - FruitVegetable.csproj", "{2D4B3FD2-A0AA-4359-A6E6-81D61E816F85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p11 - SmallShop", "p11 - SmallShop\p11 - SmallShop.csproj", "{1992DB97-7909-4FBD-AD51-38889029F4CF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p11 - SmallShop", "p11 - SmallShop\p11 - SmallShop.csproj", "{1992DB97-7909-4FBD-AD51-38889029F4CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p12 - InvalidNumber", "p12 - InvalidNumber\p12 - InvalidNumber.csproj", "{34C74EB8-AB8D-40E6-9012-9C08F67C6B41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p12 - InvalidNumber", "p12 - InvalidNumber\p12 - InvalidNumber.csproj", "{34C74EB8-AB8D-40E6-9012-9C08F67C6B41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p13 - AnimallClass", "p13 - AnimallClass\p13 - AnimallClass.csproj", "{1459B839-57EB-4F03-88B4-7BAEB7DAA968}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p13 - AnimallClass", "p13 - AnimallClass\p13 - AnimallClass.csproj", "{1459B839-57EB-4F03-88B4-7BAEB7DAA968}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p14 - Cinema", "p14 - Cinema\p14 - Cinema.csproj", "{E2AD7DEA-3EF9-40BA-BE0F-887B17E42F29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p14 - Cinema", "p14 - Cinema\p14 - Cinema.csproj", "{E2AD7DEA-3EF9-40BA-BE0F-887B17E42F29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p15 - TransportPrice", "p15 - TransportPrice\p15 - TransportPrice.csproj", "{C2DACE74-8C18-4CC9-8C3E-B64107B1873E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p15 - TransportPrice", "p15 - TransportPrice\p15 - TransportPrice.csproj", "{C2DACE74-8C18-4CC9-8C3E-B64107B1873E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p16 - PoolPipes", "p16 - PoolPipes\p16 - PoolPipes.csproj", "{56C97F91-23E5-41ED-B463-555FCCD3528C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p16 - PoolPipes", "p16 - PoolPipes\p16 - PoolPipes.csproj", "{56C97F91-23E5-41ED-B463-555FCCD3528C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p17 - SleepengCat", "p17 - SleepengCat\p17 - SleepengCat.csproj", "{1C43A41A-3B06-4D29-AD7F-D088759B6343}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p17 - SleepengCat", "p17 - SleepengCat\p17 - SleepengCat.csproj", "{1C43A41A-3B06-4D29-AD7F-D088759B6343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p18 - Rekolta", "p18 - Rekolta\p18 - Rekolta.csproj", "{97AE04C9-5C17-4486-9FE5-FAFB775A6960}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p19 - NaVremeZaIzpit", "p19 - NaVremeZaIzpit\p19 - NaVremeZaIzpit.csproj", "{8C927A56-4242-490E-B7F3-2FB4EB47ED3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p20 - Trip", "p20 - Trip\p20 - Trip.csproj", "{3414DF5E-736D-470C-B339-7910770D12A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +111,18 @@ Global
 		{1C43A41A-3B06-4D29-AD7F-D088759B6343}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C43A41A-3B06-4D29-AD7F-D088759B6343}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C43A41A-3B06-4D29-AD7F-D088759B6343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97AE04C9-5C17-4486-9FE5-FAFB775A6960}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97AE04C9-5C17-4486-9FE5-FAFB775A6960}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97AE04C9-5C17-4486-9FE5-FAFB775A6960}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97AE04C9-5C17-4486-9FE5-FAFB775A6960}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C927A56-4242-490E-B7F3-2FB4EB47ED3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C927A56-4242-490E-B7F3-2FB4EB47ED3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C927A56-4242-490E-B7F3-2FB4EB47ED3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C927A56-4242-490E-B7F3-2FB4EB47ED3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3414DF5E-736D-470C-B339-7910770D12A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3414DF5E-736D-470C-B339-7910770D12A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3414DF5E-736D-470C-B339-7910770D12A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3414DF5E-736D-470C-B339-7910770D12A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
