@@ -4,17 +4,21 @@
     {
         static void Main(string[] args)
         {
-            
-            for (int i = 0; i < 10; i++)
+
+            for (int i = 1; i <= 5; i++)
             {
-                
-                if (i == 5)
+                for (int j = 1; j < 5; j++)
                 {
-                    break;
+                    for (int k = 1; k < 5; k++)
+                    {
+                        Console.WriteLine($"{i} {j} {k}");
+                    }
+                    Console.WriteLine();
                 }
-                Console.WriteLine(i);
+                Console.WriteLine();
             }
-            
+
+           
         }
     }
 }
